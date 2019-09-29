@@ -18,6 +18,12 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+//*****************************************************
+// This saves a .txt file into the external storage of
+// the Android device.
+//*****************************************************
+
+
 public class MainActivity extends AppCompatActivity {
 
     private static Button btn;
